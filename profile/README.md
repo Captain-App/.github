@@ -24,6 +24,6 @@ Captain App is also committed to giving back to the community. We're open to con
 ## Contact Us
 Got a project in mind? Let's talk! You can reach us at:
 
-- Email: contact@captainapp.com
+- Email: github@captainapp.co.uk
 
 Thank you for visiting Captain App. Let's build something amazing together!
